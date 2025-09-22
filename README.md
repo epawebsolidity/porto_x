@@ -14,3 +14,5 @@ https://sepolia.etherscan.io/address/0x1F98431c8aD98523631AE4a59f267346ea31F984#
 0xc3842a8fd573009b83c9bbcdb0d3feb6eb5d2fef32b8ea83376077523e557043
 
 https://sepolia.etherscan.io/address/0x9440B85d96eA07792B822877b27d8DbFF212aA90
+
+https://sanghun.xyz/running-uniswap-frontend-locally-for-testnet-environment-en/
