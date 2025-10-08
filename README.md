@@ -111,3 +111,26 @@ Scan | DexS | Gecko | Defi | Search 𝕏 | Search FC
 
 
 0x16eE63Ff8ec0dA42cc8aE0A3c85E7E156B09e867
+
+Sad cat | Sadcatz / WETH (Base 🧢)
+0x16ee63ff8ec0da42cc8ae0a3c85e7e156b09e867
+
+🚱 VERY LOW LIQUIDITY 🚱
+
+Pool Info
+🦄 DEX: UNISWAP V3
+📊 Mcap: $4,064
+💧 Liq: $0
+⚖️ TxFees: B <$0.1 | S <$0.1
+
+Token Info
+🧾 Pool Tax: 1%
+💸 Tax: B 0.00% | S 0.00% | T 0.00%
+📏 MaxTx: 1.00%
+🔥 Burn: 0% | 🛑 Clogged: 0%
+
+💼 W1 0.0168 | W2 0
+
+ℹ️ auto 10s
+⚙️ Sets | 💎 Earn | Scan
+DexS | Gecko | Defi | Search 𝕏 | Search FC
