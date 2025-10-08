@@ -80,3 +80,31 @@ Wallet: W2
 You have 0.0 ETH, but you need at least 0.000001 ETH to complete this transaction.
 
 Check your balance or your gas!
+
+
+
+InternetBurgerMoney | $IBM / WETH (Base 🧢)
+0x3612f72dd488857e76ce82ae2e721d2913c8295b
+
+Pool Info
+🦄 DEX: UNISWAP V3
+🏭 Factory: APE.STORE
+📊 Mcap: $8,725
+💧 Liq: $1,818
+⚖️ TxFees: B <$0.1 | S <$0.1
+
+Token Info
+🧾 Pool Tax: 1%
+💸 Tax: B 0.00% | S 0.00% | T 0.00%
+📏 MaxTx: ❌
+🔥 Burn: 0% | 🛑 Clogged: 0%
+
+[W1] 🟩 +0% ($0.00)
+💰 Net worth: 0 ETH ($0)
+💎 Amount: 0.00 $$IBM (<0.01%)
+
+💼 W1 0
+
+ℹ️ auto 10s
+⚙️ Sets | 💎 Earn | 🖼 PnL
+Scan | DexS | Gecko | Defi | Search 𝕏 | Search FC
