@@ -134,3 +134,5 @@ Token Info
 ℹ️ auto 10s
 ⚙️ Sets | 💎 Earn | Scan
 DexS | Gecko | Defi | Search 𝕏 | Search FC
+
+0x02cf84e3915e3f8ba6d154ad034ed90d238ac889b1dd7723a3b7082d697a99e9
