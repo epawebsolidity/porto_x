@@ -39,3 +39,44 @@ https://sepolia.etherscan.io/address/0xFddfD3f84B5570607F72CE7E680ed86f6a7cb969
 0x7Acf6A934575f35468844C989AEBD31720D09A58
 
 3d17a2fbc438fef959efcd22c989063c54265111e77c161221688757fa456638
+
+
+MyToken | MTK / WETH (Base 🧢)
+0x7acf6a934575f35468844c989aebd31720d09a58
+
+🚱 VERY LOW LIQUIDITY 🚱
+
+Pool Info
+🦄 DEX: UNISWAP V3
+📊 Mcap: $4.97020434230637e+21
+💧 Liq: $0
+⚖️ TxFees: B <$0.1 | S <$0.1
+
+Token Info
+🧾 Pool Tax: 0.3%
+💸 Tax: B 0.00% | S 0.00% | T 0.00%
+📏 MaxTx: ❌
+🔥 Burn: 0% | 🛑 Clogged: 0%
+
+[W2] 🟩 +0% ($0.00)
+💰 Net worth: 0 ETH ($0)
+💎 Amount: 1.00B $MTK (100%)
+
+💼 W1 0.0168 | W2 0
+
+ℹ️ auto 10s
+⚙️ Sets | 💎 Earn | 🖼 PnL
+Scan | DexS | Gecko | Defi | Search 𝕏 | Search FC
+
+🔴 Transaction failed (1/2)
+MyToken (Base 🧢)
+0x7acf6a934575f35468844c989aebd31720d09a58
+
+Mode: Manual Buy 
+Value: 0.000001 ETH
+Wallet: W2
+
+❌ Insufficient funds for gas * price + value
+You have 0.0 ETH, but you need at least 0.000001 ETH to complete this transaction.
+
+Check your balance or your gas!
