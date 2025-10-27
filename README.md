@@ -136,3 +136,5 @@ Token Info
 DexS | Gecko | Defi | Search 𝕏 | Search FC
 
 0x02cf84e3915e3f8ba6d154ad034ed90d238ac889b1dd7723a3b7082d697a99e9
+
+cad0abd4627cdfb8da13f1eb36e892aaca55391576546c71a2698511c2432d2a
