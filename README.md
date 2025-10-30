@@ -133,6 +133,8 @@ Token Info
 
 ℹ️ auto 10s
 ⚙️ Sets | 💎 Earn | Scan
+
+https://sepolia.basescan.org/address/0x8Baf288B0Dd35fecEbB6332B8b677b7f8A8B2472
 DexS | Gecko | Defi | Search 𝕏 | Search FC
 
 0x02cf84e3915e3f8ba6d154ad034ed90d238ac889b1dd7723a3b7082d697a99e9
