@@ -142,3 +142,36 @@ DexS | Gecko | Defi | Search 𝕏 | Search FC
 cad0abd4627cdfb8da13f1eb36e892aaca55391576546c71a2698511c2432d2a
 
 0x8Baf288B0Dd35fecEbB6332B8b677b7f8A8B2472
+
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.18; //solidity version
+
+contract SimpleStorage {
+    uint256 public favoriteNumber; //0 if not value
+
+    //uint256 [] listOfFavoriteNumber // [77, 78, 19]
+
+    struct Person {
+        uint256 favoriteNumberUint;
+        string name;
+    }
+
+    //dynamic array
+    Person[] public listPeople;
+
+    mapping(string => uint256) public nameToFavoriteNumber;
+    
+    function store(uint256 _favoriteNumber) public {
+        favoriteNumber = _favoriteNumber;
+    }
+
+    function retrieve() public view returns(uint256){
+        return favoriteNumber;
+    }
+
+    //calldata, memory, strorage
+    function addPerson(string memory _name, uint256 _favoriteNumberUint) public {
+        listPeople.push(Person(_favoriteNumberUint, _name));
+        nameToFavoriteNumber[_name] = _favoriteNumberUint;
+    }
+}
