@@ -175,3 +175,4 @@ contract SimpleStorage {
         nameToFavoriteNumber[_name] = _favoriteNumberUint;
     }
 }
+https://mancerwork.notion.site/Mancer-Flow-Salary-Contract-Documentation-297b2729a13a800bafcfd3ac47aa6ec5
