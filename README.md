@@ -176,3 +176,5 @@ contract SimpleStorage {
     }
 }
 https://mancerwork.notion.site/Mancer-Flow-Salary-Contract-Documentation-297b2729a13a800bafcfd3ac47aa6ec5
+
+https://edu-chain-testnet.blockscout.com/address/0x62B969EB63bE8E9c9622ca1E096675360F14859A?tab=txs
