@@ -177,4 +177,50 @@ contract SimpleStorage {
 }
 https://mancerwork.notion.site/Mancer-Flow-Salary-Contract-Documentation-297b2729a13a800bafcfd3ac47aa6ec5
 
-https://edu-chain-testnet.blockscout.com/address/0x62B969EB63bE8E9c9622ca1E096675360F14859A?tab=txs
+https://edu-chain-testnet.blockscout.com/address/0x62B969EB63bE8E9c9622ca1E096675360F14859A?tab=txs 
+
+
+ const handleRefunMax = async () => {
+  if (!isConnected) {
+    connect();
+    return;
+  }
+
+  try {
+    const streamIdRaw = salary[0]?.streamId;
+    if (!streamIdRaw) throw new Error("streamId not found");
+
+    const streamIdBigInt =
+      typeof streamIdRaw === "bigint" ? streamIdRaw : BigInt(streamIdRaw);
+
+    console.log("streamId:", streamIdBigInt);
+
+    // --- 1) SIMULATE ---
+    const simulation = await publicClient.simulateContract({
+      address: streamContract,
+      abi: abiTokenPhii,
+      functionName: "refundMax",
+      args: [streamIdBigInt],
+      account: address,
+    });
+
+    console.log("Simulation Success:", simulation);
+
+    // --- 2) EXECUTE TRANSACTION ---
+    const hash = await writeContract(simulation.request);
+
+    console.log("Tx Hash:", hash);
+
+    // --- 3) WAIT FOR RECEIPT ---
+    await waitForTransactionReceipt(publicClient, { hash });
+
+    setIsError(false);
+    setIsSuccess(true);
+    setIsModalOpen(true);
+  } catch (err) {
+    console.error("Refund error:", err);
+    setIsSuccess(false);
+    setIsError(true);
+    setIsModalOpen(true);
+  }
+};
