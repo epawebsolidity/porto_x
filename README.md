@@ -85,3 +85,50 @@ contract SimpleContract {
 
 //0xf4ea49eaa04cdc2b4c45a0c4570fbca24a315c56
 //0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2
+
+
+<div class="flex gap-6 justify-center p-10 bg-[#03182a] overflow-x-auto">
+  
+  <!-- CARD -->
+  <div class="w-56 bg-[#31126b] rounded-xl overflow-hidden text-white
+              transform rotate-[-8deg] transition-all duration-300 shadow-xl
+              hover:rotate-0 hover:scale-105 hover:shadow-[0_0_35px_rgba(0,255,255,0.7)]">
+    <img src="https://via.placeholder.com/300x300" class="w-full">
+    <div class="p-4">
+      <h3 class="text-lg font-bold">Degen Ape #9244</h3>
+      <p class="text-sm opacity-70">Degenerate Ape Academy</p>
+      <div class="mt-2 bg-black/40 px-3 py-1 rounded-full w-fit text-sm">
+        40 ◎
+      </div>
+    </div>
+  </div>
+
+  <!-- CARD 2 -->
+  <div class="w-56 bg-[#31126b] rounded-xl overflow-hidden text-white
+              transform rotate-[3deg] transition-all duration-300 shadow-xl
+              hover:rotate-0 hover:scale-105 hover:shadow-[0_0_35px_rgba(0,255,255,0.7)]">
+    <img src="https://via.placeholder.com/300x300" class="w-full">
+    <div class="p-4">
+      <h3 class="text-lg font-bold">Dope Apes #1400</h3>
+      <p class="text-sm opacity-70">Dope Apes</p>
+      <div class="mt-2 bg-black/40 px-3 py-1 rounded-full w-fit text-sm">
+        1.44 ◎
+      </div>
+    </div>
+  </div>
+
+  <!-- CARD 3 -->
+  <div class="w-56 bg-[#31126b] rounded-xl overflow-hidden text-white
+              transform rotate-[10deg] transition-all duration-300 shadow-xl
+              hover:rotate-0 hover:scale-105 hover:shadow-[0_0_35px_rgba(0,255,255,0.7)]">
+    <img src="https://via.placeholder.com/300x300" class="w-full">
+    <div class="p-4">
+      <h3 class="text-lg font-bold">Aurorian #827</h3>
+      <p class="text-sm opacity-70">Aurory</p>
+      <div class="mt-2 bg-black/40 px-3 py-1 rounded-full w-fit text-sm">
+        23 ◎
+      </div>
+    </div>
+  </div>
+
+</div>
